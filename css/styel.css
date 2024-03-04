@@ -1,0 +1,189 @@
+*{
+    margin: 0 ;
+    padding: 0;
+}
+ul{
+    list-style: none;
+}
+#java{
+    padding: 300px 0;
+    background: url(../images/tree-736885_640.jpg) no-repeat center / cover;
+}
+.playerone{
+    text-align: center;
+    
+}
+.playerone h2 {
+	color: #fff;
+	font-size: 36px;
+	margin-top: -181px;
+}
+.playeroneinput{
+   height: 50px;
+   width: 300px;
+   background-color: #fff;
+   margin-top: 30px;
+   font-size: 22px;
+   
+   border: none;
+   border-radius:  20px;
+   -webkit-border-radius:  20px;
+   -moz-border-radius:  20px;
+   -ms-border-radius:  20px;
+   -o-border-radius:  20px;
+}
+.playeonebut{
+    height: 55px ;
+    width: 80px;
+    background-color: #fff;
+    font-size: 22px;
+
+   
+    color: black;
+    margin-top: 10px;
+    border: none;
+   border-radius:  20px;
+   -webkit-border-radius:  20px;
+   -moz-border-radius:  20px;
+   -ms-border-radius:  20px;
+   -o-border-radius:  20px;
+}
+.playeroneerr{
+    color: red;
+}
+.playertwo h2 {
+	color: #fff;
+	font-size: 36px;
+	margin-top: -181px;
+}
+.playertwoinput{
+   height: 50px;
+   width: 300px;
+   background-color: #fff;
+   margin-top: 30px;
+   font-size: 22px;
+   
+   border: none;
+   border-radius:  20px;
+   -webkit-border-radius:  20px;
+   -moz-border-radius:  20px;
+   -ms-border-radius:  20px;
+   -o-border-radius:  20px;
+}
+.playetwobut{
+    height: 55px ;
+    width: 80px;
+    background-color: #fff;
+    font-size: 22px;
+
+   
+    color: black;
+    margin-top: 10px;
+    border: none;
+   border-radius:  20px;
+   -webkit-border-radius:  20px;
+   -moz-border-radius:  20px;
+   -ms-border-radius:  20px;
+   -o-border-radius:  20px;
+}
+.playertwoerr{
+    color: red;
+}
+.success{
+    font-size: 28px;
+    color: #fff;
+}
+.playertwo{
+    text-align: center;
+    display: none;
+}
+.main{
+    text-align: center;
+   position: relative;
+}
+.main i {
+	color: #000;
+	font-size: 22px;
+	position: absolute;
+	margin-top: 113px;
+	margin-left: -40px;
+}
+.one{
+   
+    height: 50px ;
+    width: 300px;
+    background-color: #fff;
+    border: none;
+    margin-top: 100px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.mainone{
+    text-align: center;
+    padding-top: 100px;
+
+}
+.text{
+    height: 50px;
+    width: 300px;
+    background-color: #fff;
+    border: none;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.add{
+    height: 40px;
+    width: 80px;
+    text-align: center;
+    background-color: #fff;
+    border: none;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.upd{
+    height: 40px;
+    width: 100px;
+    text-align: center;
+    background-color: #fff;
+    border: none;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.delete{
+    height: 40px;
+    width: 100px;
+    text-align: center;
+    background-color: #fff;
+    margin-top: 20px;
+    border: none;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.edit{
+    height: 40px;
+    width: 80px;
+    text-align: center;
+    background-color: #fff;
+    margin-top: 20px;
+    border: none;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
